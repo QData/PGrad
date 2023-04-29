@@ -1,8 +1,6 @@
 # Welcome to our code repo for PGrad
 
-% add a figure 
-
-To get a quick introduction of PGrad, please check out our ICLR slides [Slides](https://github.com/QData/PGrad/blob/main/PGrad_ICLR.pdf)
+To get a quick introduction of PGrad, please check out our [ICLR Slides] (https://github.com/QData/PGrad/blob/main/PGrad_ICLR.pdf)
 
 This is the official PyTorch implementation of our ICLR 2023 paper [PGrad: Learning Principal Gradients for Domain Generalization](https://openreview.net/pdf?id=CgCmwcfgEdH).
 
