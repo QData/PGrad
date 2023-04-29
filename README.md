@@ -1,7 +1,7 @@
 # Welcome to our code repo for PGrad
 
 See the image below for an illustration.
-<p align='center'><img src="https://github.com/QData/PGrad/blob/main/figures/framework.pdf" alt="Training Paradigm" width="300"/></p>
+<p align='center'><img src="https://github.com/QData/PGrad/blob/main/figures/Framework.png" alt="Training Paradigm" width="300"/></p>
 
 To get a quick introduction of PGrad, please check out our ICLR [Slides] (https://github.com/QData/PGrad/blob/main/PGrad_ICLR.pdf)
 
