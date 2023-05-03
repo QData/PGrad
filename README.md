@@ -19,7 +19,7 @@ To train a model:
 
 ```sh
 python -m domainbed.scripts.train\
-       --data_dir=./domainbed/data/TerraIncognita/\
+       --data_dir=./domainbed/data/\
        --algorithm PGrad\
        --dataset PACS\
        --test_env 0
